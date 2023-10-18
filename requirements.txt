@@ -4,7 +4,7 @@ pyttsx3
 numpy
 PyPDF2
 easyocr
-cv2
+cv2 == 4.8.2
 speech_recognition
 docx
 reportlab.lib.pagesizes

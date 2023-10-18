@@ -1,0 +1,17 @@
+streamlit
+streamlit_option_menu
+pyttsx3
+numpy
+PyPDF2
+easyocr
+cv2
+speech_recognition
+docx
+reportlab.lib.pagesizes
+reportlab.pdfgen
+streamlit_lottie
+requests
+googletranstransformers
+io
+os
+docx2pdf

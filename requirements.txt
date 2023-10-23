@@ -15,3 +15,5 @@ googletranstransformers
 io
 os
 docx2pdf
+python-docx
+tempfile

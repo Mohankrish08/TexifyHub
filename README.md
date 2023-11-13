@@ -1,5 +1,10 @@
 # TexifyHub
 
+- Git clone this repo
+
+    ```bash
+    git clone https://github.com/Mohankrish08/TexifyHub
+
 
 This is about the project of Multi purpose website, it has the capabilities of 
 
